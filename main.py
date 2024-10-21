@@ -1,6 +1,5 @@
 print("Hello from develop branch!")
 
-
 def addition(a, b):
     return a + b
 
